@@ -1,8 +1,7 @@
 ## UFO Sightings
 <h3> Suraj Thyagaraj
-# javascript-challenge
-CWRU Data Analytics Bootcamp - JavaScript HW
---------------------------
+<h3> javascript-challenge
+<h3> CWRU Data Analytics Bootcamp - JavaScript HW
 
 ## Level 1: Automatic Table and Date Search
 * Create a basic HTML web page.
